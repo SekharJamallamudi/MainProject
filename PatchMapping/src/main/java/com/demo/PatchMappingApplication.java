@@ -10,6 +10,8 @@ public class PatchMappingApplication {
 		SpringApplication.run(PatchMappingApplication.class, args);
 		System.out.println("Hello SekharJamallamudi.....");
 		System.out.println("changes to the node...");
+		System.out.println("changes to the node1...");
+		
 	}
 
 }
